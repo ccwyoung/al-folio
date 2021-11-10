@@ -1,12 +1,15 @@
 ---
 layout: page
-title: submenus
+title: academic experience
 nav: true
 dropdown: true
 children: 
-    - title: publications
-      permalink: /publications/
+    - title: teaching experience
+      permalink: /teaching experience/
     - title: divider
-    - title: projects
-      permalink: /projects/
+    - title: research grants
+	  permalink: /research grants/
+	- title: divider
+	- title: academic service
+	  permalink: /academic service/
 ---
